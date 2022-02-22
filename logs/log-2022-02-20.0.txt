@@ -1,0 +1,532 @@
+[INFO ] 01:12:36.149 com.board.main.DemoApplication - Starting DemoApplication using Java 17.0.2 on DESKTOP-Q5SF89O with PID 19208 (C:\Users\kimdoomin\eclipse-workspace\winsProject\bin\main started by kimdoomin in C:\Users\kimdoomin\eclipse-workspace\winsProject)
+[INFO ] 01:12:36.150 com.board.main.DemoApplication - No active profile set, falling back to default profiles: default
+[INFO ] 01:12:36.279 o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[INFO ] 01:12:36.279 o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[INFO ] 01:12:36.847 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8000 (http)
+[INFO ] 01:12:36.853 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8000"]
+[INFO ] 01:12:36.854 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 01:12:36.854 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+[INFO ] 01:12:36.897 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 01:12:36.897 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 618 ms
+[INFO ] 01:12:37.191 o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+[INFO ] 01:12:37.203 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8000"]
+[INFO ] 01:12:37.230 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8000 (http) with context path ''
+[INFO ] 01:12:37.240 com.board.main.DemoApplication - Started DemoApplication in 1.37 seconds (JVM running for 1.864)
+[INFO ] 01:12:42.974 o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+[INFO ] 01:12:44.454 com.board.main.DemoApplication - Starting DemoApplication using Java 17.0.2 on DESKTOP-Q5SF89O with PID 23324 (C:\Users\kimdoomin\eclipse-workspace\winsProject\bin\main started by kimdoomin in C:\Users\kimdoomin\eclipse-workspace\winsProject)
+[INFO ] 01:12:44.455 com.board.main.DemoApplication - No active profile set, falling back to default profiles: default
+[INFO ] 01:12:44.581 o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[INFO ] 01:12:44.581 o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[INFO ] 01:12:45.156 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8000 (http)
+[INFO ] 01:12:45.162 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8000"]
+[INFO ] 01:12:45.162 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 01:12:45.163 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+[INFO ] 01:12:45.206 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 01:12:45.206 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 625 ms
+[INFO ] 01:12:45.480 o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+[INFO ] 01:12:45.490 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8000"]
+[INFO ] 01:12:45.517 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8000 (http) with context path ''
+[INFO ] 01:12:45.527 com.board.main.DemoApplication - Started DemoApplication in 1.346 seconds (JVM running for 1.836)
+[INFO ] 01:12:54.010 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 01:12:54.010 o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[INFO ] 01:12:54.011 o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+[INFO ] 01:13:29.452 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+[INFO ] 01:13:29.547 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+[INFO ] 01:13:40.845 o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+[INFO ] 01:13:40.862 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+[INFO ] 01:13:40.866 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+[INFO ] 01:20:19.248 com.board.main.DemoApplication - Starting DemoApplication using Java 17.0.2 on DESKTOP-Q5SF89O with PID 23004 (C:\Users\kimdoomin\eclipse-workspace\winsProject\bin\main started by kimdoomin in C:\Users\kimdoomin\eclipse-workspace\winsProject)
+[INFO ] 01:20:19.249 com.board.main.DemoApplication - No active profile set, falling back to default profiles: default
+[INFO ] 01:20:19.376 o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[INFO ] 01:20:19.376 o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[INFO ] 01:20:19.953 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8000 (http)
+[INFO ] 01:20:19.959 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8000"]
+[INFO ] 01:20:19.960 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 01:20:19.960 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+[INFO ] 01:20:20.002 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 01:20:20.003 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 627 ms
+[INFO ] 01:20:20.279 o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+[INFO ] 01:20:20.288 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8000"]
+[INFO ] 01:20:20.315 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8000 (http) with context path ''
+[INFO ] 01:20:20.324 com.board.main.DemoApplication - Started DemoApplication in 1.348 seconds (JVM running for 1.828)
+[INFO ] 01:26:31.315 com.board.main.DemoApplication - Starting DemoApplication using Java 17.0.2 on DESKTOP-Q5SF89O with PID 23004 (C:\Users\kimdoomin\eclipse-workspace\winsProject\bin\main started by kimdoomin in C:\Users\kimdoomin\eclipse-workspace\winsProject)
+[INFO ] 01:26:31.315 com.board.main.DemoApplication - No active profile set, falling back to default profiles: default
+[INFO ] 01:26:31.459 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8000 (http)
+[INFO ] 01:26:31.459 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8000"]
+[INFO ] 01:26:31.459 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 01:26:31.459 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+[INFO ] 01:26:31.471 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 01:26:31.471 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 154 ms
+[INFO ] 01:26:31.555 o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+[INFO ] 01:26:31.559 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8000"]
+[INFO ] 01:26:31.561 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8000 (http) with context path ''
+[INFO ] 01:26:31.564 com.board.main.DemoApplication - Started DemoApplication in 0.273 seconds (JVM running for 373.068)
+[INFO ] 01:26:31.565 o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+[INFO ] 01:26:34.077 com.board.main.DemoApplication - Starting DemoApplication using Java 17.0.2 on DESKTOP-Q5SF89O with PID 23004 (C:\Users\kimdoomin\eclipse-workspace\winsProject\bin\main started by kimdoomin in C:\Users\kimdoomin\eclipse-workspace\winsProject)
+[INFO ] 01:26:34.077 com.board.main.DemoApplication - No active profile set, falling back to default profiles: default
+[INFO ] 01:26:34.197 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8000 (http)
+[INFO ] 01:26:34.197 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8000"]
+[INFO ] 01:26:34.197 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 01:26:34.197 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+[INFO ] 01:26:34.208 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 01:26:34.208 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 130 ms
+[INFO ] 01:26:34.273 o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+[INFO ] 01:26:34.277 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8000"]
+[INFO ] 01:26:34.278 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8000 (http) with context path ''
+[INFO ] 01:26:34.281 com.board.main.DemoApplication - Started DemoApplication in 0.224 seconds (JVM running for 375.785)
+[INFO ] 01:26:34.282 o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+[INFO ] 01:26:50.002 com.board.main.DemoApplication - Starting DemoApplication using Java 17.0.2 on DESKTOP-Q5SF89O with PID 23004 (C:\Users\kimdoomin\eclipse-workspace\winsProject\bin\main started by kimdoomin in C:\Users\kimdoomin\eclipse-workspace\winsProject)
+[INFO ] 01:26:50.003 com.board.main.DemoApplication - No active profile set, falling back to default profiles: default
+[INFO ] 01:26:50.118 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8000 (http)
+[INFO ] 01:26:50.118 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8000"]
+[INFO ] 01:26:50.118 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 01:26:50.119 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+[INFO ] 01:26:50.130 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 01:26:50.130 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 127 ms
+[INFO ] 01:26:50.192 o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+[INFO ] 01:26:50.195 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8000"]
+[INFO ] 01:26:50.196 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8000 (http) with context path ''
+[INFO ] 01:26:50.200 com.board.main.DemoApplication - Started DemoApplication in 0.217 seconds (JVM running for 391.703)
+[INFO ] 01:26:50.200 o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+[INFO ] 01:26:52.693 com.board.main.DemoApplication - Starting DemoApplication using Java 17.0.2 on DESKTOP-Q5SF89O with PID 23004 (C:\Users\kimdoomin\eclipse-workspace\winsProject\bin\main started by kimdoomin in C:\Users\kimdoomin\eclipse-workspace\winsProject)
+[INFO ] 01:26:52.693 com.board.main.DemoApplication - No active profile set, falling back to default profiles: default
+[INFO ] 01:26:52.805 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8000 (http)
+[INFO ] 01:26:52.805 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8000"]
+[INFO ] 01:26:52.805 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 01:26:52.805 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+[INFO ] 01:26:52.818 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 01:26:52.818 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 124 ms
+[INFO ] 01:26:52.878 o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+[INFO ] 01:26:52.882 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8000"]
+[INFO ] 01:26:52.883 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8000 (http) with context path ''
+[INFO ] 01:26:52.886 com.board.main.DemoApplication - Started DemoApplication in 0.21 seconds (JVM running for 394.39)
+[INFO ] 01:26:52.887 o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+[INFO ] 01:26:53.747 o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+[INFO ] 01:26:55.316 com.board.main.DemoApplication - Starting DemoApplication using Java 17.0.2 on DESKTOP-Q5SF89O with PID 17248 (C:\Users\kimdoomin\eclipse-workspace\winsProject\bin\main started by kimdoomin in C:\Users\kimdoomin\eclipse-workspace\winsProject)
+[INFO ] 01:26:55.316 com.board.main.DemoApplication - No active profile set, falling back to default profiles: default
+[INFO ] 01:26:55.449 o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[INFO ] 01:26:55.449 o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[INFO ] 01:26:56.038 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8000 (http)
+[INFO ] 01:26:56.045 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8000"]
+[INFO ] 01:26:56.046 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 01:26:56.046 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+[INFO ] 01:26:56.090 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 01:26:56.090 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 641 ms
+[INFO ] 01:26:56.396 o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+[INFO ] 01:26:56.406 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8000"]
+[INFO ] 01:26:56.435 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8000 (http) with context path ''
+[INFO ] 01:26:56.445 com.board.main.DemoApplication - Started DemoApplication in 1.414 seconds (JVM running for 1.919)
+[INFO ] 01:32:34.018 com.board.main.DemoApplication - Starting DemoApplication using Java 17.0.2 on DESKTOP-Q5SF89O with PID 17248 (C:\Users\kimdoomin\eclipse-workspace\winsProject\bin\main started by kimdoomin in C:\Users\kimdoomin\eclipse-workspace\winsProject)
+[INFO ] 01:32:34.018 com.board.main.DemoApplication - No active profile set, falling back to default profiles: default
+[INFO ] 01:32:34.151 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8000 (http)
+[INFO ] 01:32:34.152 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8000"]
+[INFO ] 01:32:34.152 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 01:32:34.152 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+[INFO ] 01:32:34.164 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 01:32:34.164 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 144 ms
+[INFO ] 01:32:34.235 o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+[INFO ] 01:32:34.239 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8000"]
+[INFO ] 01:32:34.240 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8000 (http) with context path ''
+[INFO ] 01:32:34.244 com.board.main.DemoApplication - Started DemoApplication in 0.248 seconds (JVM running for 339.717)
+[INFO ] 01:32:34.245 o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+[INFO ] 01:32:37.744 o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+[INFO ] 01:32:46.750 com.board.main.DemoApplication - Starting DemoApplication using Java 17.0.2 on DESKTOP-Q5SF89O with PID 21600 (C:\Users\kimdoomin\eclipse-workspace\winsProject\bin\main started by kimdoomin in C:\Users\kimdoomin\eclipse-workspace\winsProject)
+[INFO ] 01:32:46.750 com.board.main.DemoApplication - No active profile set, falling back to default profiles: default
+[INFO ] 01:32:46.878 o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[INFO ] 01:32:46.878 o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[INFO ] 01:32:47.453 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8000 (http)
+[INFO ] 01:32:47.459 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8000"]
+[INFO ] 01:32:47.459 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 01:32:47.459 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+[INFO ] 01:32:47.503 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 01:32:47.503 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 624 ms
+[INFO ] 01:32:47.776 o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+[INFO ] 01:32:47.786 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8000"]
+[INFO ] 01:32:47.811 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8000 (http) with context path ''
+[INFO ] 01:32:47.822 com.board.main.DemoApplication - Started DemoApplication in 1.347 seconds (JVM running for 1.856)
+[INFO ] 01:42:31.018 o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+[INFO ] 02:17:15.096 com.board.main.DemoApplication - Starting DemoApplication using Java 17.0.2 on DESKTOP-Q5SF89O with PID 11048 (C:\Users\kimdoomin\eclipse-workspace\winsProject\bin\main started by kimdoomin in C:\Users\kimdoomin\eclipse-workspace\winsProject)
+[INFO ] 02:17:15.097 com.board.main.DemoApplication - No active profile set, falling back to default profiles: default
+[INFO ] 02:17:15.222 o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[INFO ] 02:17:15.222 o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[INFO ] 02:17:15.823 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8000 (http)
+[INFO ] 02:17:15.830 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8000"]
+[INFO ] 02:17:15.831 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 02:17:15.831 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+[INFO ] 02:17:15.879 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 02:17:15.879 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 657 ms
+[INFO ] 02:17:16.169 o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+[INFO ] 02:17:16.179 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8000"]
+[INFO ] 02:17:16.205 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8000 (http) with context path ''
+[INFO ] 02:17:16.214 com.board.main.DemoApplication - Started DemoApplication in 1.424 seconds (JVM running for 1.924)
+[INFO ] 02:17:41.194 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 02:17:41.194 o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[INFO ] 02:17:41.195 o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+[INFO ] 02:27:12.074 com.board.main.DemoApplication - Starting DemoApplication using Java 17.0.2 on DESKTOP-Q5SF89O with PID 11048 (C:\Users\kimdoomin\eclipse-workspace\winsProject\bin\main started by kimdoomin in C:\Users\kimdoomin\eclipse-workspace\winsProject)
+[INFO ] 02:27:12.074 com.board.main.DemoApplication - No active profile set, falling back to default profiles: default
+[INFO ] 02:27:12.220 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8000 (http)
+[INFO ] 02:27:12.221 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8000"]
+[INFO ] 02:27:12.221 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 02:27:12.221 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+[INFO ] 02:27:12.233 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 02:27:12.233 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 154 ms
+[INFO ] 02:27:12.314 o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+[INFO ] 02:27:12.318 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8000"]
+[INFO ] 02:27:12.319 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8000 (http) with context path ''
+[INFO ] 02:27:12.323 com.board.main.DemoApplication - Started DemoApplication in 0.272 seconds (JVM running for 598.033)
+[INFO ] 02:27:12.324 o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+[INFO ] 02:27:22.855 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 02:27:22.856 o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[INFO ] 02:27:22.856 o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+[INFO ] 02:38:20.408 com.board.main.DemoApplication - Starting DemoApplication using Java 17.0.2 on DESKTOP-Q5SF89O with PID 4856 (C:\Users\kimdoomin\eclipse-workspace\winsProject\bin\main started by kimdoomin in C:\Users\kimdoomin\eclipse-workspace\winsProject)
+[INFO ] 02:38:20.408 com.board.main.DemoApplication - No active profile set, falling back to default profiles: default
+[INFO ] 02:38:20.537 o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[INFO ] 02:38:20.537 o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[INFO ] 02:38:21.110 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8000 (http)
+[INFO ] 02:38:21.116 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8000"]
+[INFO ] 02:38:21.117 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 02:38:21.117 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+[INFO ] 02:38:21.160 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 02:38:21.160 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 622 ms
+[WARN ] 02:38:21.439 o.s.b.d.a.OptionalLiveReloadServer - Unable to start LiveReload server
+[INFO ] 02:38:21.449 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8000"]
+[WARN ] 02:38:21.451 o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 8000 is already in use
+[INFO ] 02:38:21.454 o.a.coyote.http11.Http11NioProtocol - Pausing ProtocolHandler ["http-nio-8000"]
+[INFO ] 02:38:21.454 o.a.catalina.core.StandardService - Stopping service [Tomcat]
+[INFO ] 02:38:21.457 o.a.coyote.http11.Http11NioProtocol - Stopping ProtocolHandler ["http-nio-8000"]
+[INFO ] 02:38:21.457 o.a.coyote.http11.Http11NioProtocol - Destroying ProtocolHandler ["http-nio-8000"]
+[ERROR] 02:38:21.477 o.s.b.d.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8000 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8000 or configure this application to listen on another port.
+
+[INFO ] 02:38:25.595 o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+[INFO ] 02:38:27.020 com.board.main.DemoApplication - Starting DemoApplication using Java 17.0.2 on DESKTOP-Q5SF89O with PID 7276 (C:\Users\kimdoomin\eclipse-workspace\winsProject\bin\main started by kimdoomin in C:\Users\kimdoomin\eclipse-workspace\winsProject)
+[INFO ] 02:38:27.021 com.board.main.DemoApplication - No active profile set, falling back to default profiles: default
+[INFO ] 02:38:27.146 o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[INFO ] 02:38:27.146 o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[INFO ] 02:38:27.723 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8000 (http)
+[INFO ] 02:38:27.729 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8000"]
+[INFO ] 02:38:27.729 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 02:38:27.729 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+[INFO ] 02:38:27.775 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 02:38:27.776 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 630 ms
+[INFO ] 02:38:28.065 o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+[INFO ] 02:38:28.074 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8000"]
+[INFO ] 02:38:28.101 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8000 (http) with context path ''
+[INFO ] 02:38:28.111 com.board.main.DemoApplication - Started DemoApplication in 1.365 seconds (JVM running for 1.862)
+[INFO ] 02:38:37.553 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 02:38:37.554 o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[INFO ] 02:38:37.554 o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+[INFO ] 02:41:23.539 com.board.main.DemoApplication - Starting DemoApplication using Java 17.0.2 on DESKTOP-Q5SF89O with PID 7276 (C:\Users\kimdoomin\eclipse-workspace\winsProject\bin\main started by kimdoomin in C:\Users\kimdoomin\eclipse-workspace\winsProject)
+[INFO ] 02:41:23.539 com.board.main.DemoApplication - No active profile set, falling back to default profiles: default
+[INFO ] 02:41:23.669 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8000 (http)
+[INFO ] 02:41:23.669 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8000"]
+[INFO ] 02:41:23.670 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 02:41:23.670 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+[INFO ] 02:41:23.682 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 02:41:23.683 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 142 ms
+[INFO ] 02:41:23.756 o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+[INFO ] 02:41:23.760 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8000"]
+[INFO ] 02:41:23.761 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8000 (http) with context path ''
+[INFO ] 02:41:23.765 com.board.main.DemoApplication - Started DemoApplication in 0.248 seconds (JVM running for 177.516)
+[INFO ] 02:41:23.766 o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+[INFO ] 02:41:33.379 com.board.main.DemoApplication - Starting DemoApplication using Java 17.0.2 on DESKTOP-Q5SF89O with PID 7276 (C:\Users\kimdoomin\eclipse-workspace\winsProject\bin\main started by kimdoomin in C:\Users\kimdoomin\eclipse-workspace\winsProject)
+[INFO ] 02:41:33.379 com.board.main.DemoApplication - No active profile set, falling back to default profiles: default
+[INFO ] 02:41:33.506 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8000 (http)
+[INFO ] 02:41:33.506 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8000"]
+[INFO ] 02:41:33.506 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 02:41:33.506 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+[INFO ] 02:41:33.518 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 02:41:33.518 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 137 ms
+[INFO ] 02:41:33.583 o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+[INFO ] 02:41:33.587 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8000"]
+[INFO ] 02:41:33.588 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8000 (http) with context path ''
+[INFO ] 02:41:33.592 com.board.main.DemoApplication - Started DemoApplication in 0.233 seconds (JVM running for 187.343)
+[INFO ] 02:41:33.593 o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+[INFO ] 02:42:16.715 com.board.main.DemoApplication - Starting DemoApplication using Java 17.0.2 on DESKTOP-Q5SF89O with PID 7276 (C:\Users\kimdoomin\eclipse-workspace\winsProject\bin\main started by kimdoomin in C:\Users\kimdoomin\eclipse-workspace\winsProject)
+[INFO ] 02:42:16.715 com.board.main.DemoApplication - No active profile set, falling back to default profiles: default
+[INFO ] 02:42:16.834 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8000 (http)
+[INFO ] 02:42:16.835 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8000"]
+[INFO ] 02:42:16.835 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 02:42:16.835 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+[INFO ] 02:42:16.846 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 02:42:16.846 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 130 ms
+[INFO ] 02:42:16.910 o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+[INFO ] 02:42:16.914 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8000"]
+[INFO ] 02:42:16.915 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8000 (http) with context path ''
+[INFO ] 02:42:16.919 com.board.main.DemoApplication - Started DemoApplication in 0.224 seconds (JVM running for 230.67)
+[INFO ] 02:42:16.919 o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+[INFO ] 02:42:23.470 com.board.main.DemoApplication - Starting DemoApplication using Java 17.0.2 on DESKTOP-Q5SF89O with PID 7276 (C:\Users\kimdoomin\eclipse-workspace\winsProject\bin\main started by kimdoomin in C:\Users\kimdoomin\eclipse-workspace\winsProject)
+[INFO ] 02:42:23.470 com.board.main.DemoApplication - No active profile set, falling back to default profiles: default
+[INFO ] 02:42:23.587 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8000 (http)
+[INFO ] 02:42:23.588 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8000"]
+[INFO ] 02:42:23.588 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 02:42:23.588 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+[INFO ] 02:42:23.599 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 02:42:23.599 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 128 ms
+[INFO ] 02:42:23.659 o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+[INFO ] 02:42:23.662 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8000"]
+[INFO ] 02:42:23.664 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8000 (http) with context path ''
+[INFO ] 02:42:23.667 com.board.main.DemoApplication - Started DemoApplication in 0.215 seconds (JVM running for 237.418)
+[INFO ] 02:42:23.667 o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+[INFO ] 02:42:26.822 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 02:42:26.822 o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[INFO ] 02:42:26.823 o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+[INFO ] 02:43:24.190 com.board.main.DemoApplication - Starting DemoApplication using Java 17.0.2 on DESKTOP-Q5SF89O with PID 7276 (C:\Users\kimdoomin\eclipse-workspace\winsProject\bin\main started by kimdoomin in C:\Users\kimdoomin\eclipse-workspace\winsProject)
+[INFO ] 02:43:24.190 com.board.main.DemoApplication - No active profile set, falling back to default profiles: default
+[INFO ] 02:43:24.309 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8000 (http)
+[INFO ] 02:43:24.309 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8000"]
+[INFO ] 02:43:24.309 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 02:43:24.309 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+[INFO ] 02:43:24.320 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 02:43:24.320 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 129 ms
+[INFO ] 02:43:24.380 o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+[INFO ] 02:43:24.384 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8000"]
+[INFO ] 02:43:24.385 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8000 (http) with context path ''
+[INFO ] 02:43:24.388 com.board.main.DemoApplication - Started DemoApplication in 0.217 seconds (JVM running for 298.139)
+[INFO ] 02:43:24.389 o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+[INFO ] 02:43:28.912 com.board.main.DemoApplication - Starting DemoApplication using Java 17.0.2 on DESKTOP-Q5SF89O with PID 7276 (C:\Users\kimdoomin\eclipse-workspace\winsProject\bin\main started by kimdoomin in C:\Users\kimdoomin\eclipse-workspace\winsProject)
+[INFO ] 02:43:28.912 com.board.main.DemoApplication - No active profile set, falling back to default profiles: default
+[INFO ] 02:43:29.027 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8000 (http)
+[INFO ] 02:43:29.027 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8000"]
+[INFO ] 02:43:29.028 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 02:43:29.028 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+[INFO ] 02:43:29.039 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 02:43:29.039 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 126 ms
+[INFO ] 02:43:29.098 o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+[INFO ] 02:43:29.102 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8000"]
+[INFO ] 02:43:29.103 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8000 (http) with context path ''
+[INFO ] 02:43:29.106 com.board.main.DemoApplication - Started DemoApplication in 0.213 seconds (JVM running for 302.857)
+[INFO ] 02:43:29.107 o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+[INFO ] 02:43:36.708 com.board.main.DemoApplication - Starting DemoApplication using Java 17.0.2 on DESKTOP-Q5SF89O with PID 7276 (C:\Users\kimdoomin\eclipse-workspace\winsProject\bin\main started by kimdoomin in C:\Users\kimdoomin\eclipse-workspace\winsProject)
+[INFO ] 02:43:36.708 com.board.main.DemoApplication - No active profile set, falling back to default profiles: default
+[INFO ] 02:43:36.826 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8000 (http)
+[INFO ] 02:43:36.826 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8000"]
+[INFO ] 02:43:36.827 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 02:43:36.827 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+[INFO ] 02:43:36.838 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 02:43:36.838 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 129 ms
+[INFO ] 02:43:36.899 o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+[INFO ] 02:43:36.902 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8000"]
+[INFO ] 02:43:36.903 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8000 (http) with context path ''
+[INFO ] 02:43:36.907 com.board.main.DemoApplication - Started DemoApplication in 0.219 seconds (JVM running for 310.658)
+[INFO ] 02:43:36.907 o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+[INFO ] 02:43:49.557 com.board.main.DemoApplication - Starting DemoApplication using Java 17.0.2 on DESKTOP-Q5SF89O with PID 7276 (C:\Users\kimdoomin\eclipse-workspace\winsProject\bin\main started by kimdoomin in C:\Users\kimdoomin\eclipse-workspace\winsProject)
+[INFO ] 02:43:49.557 com.board.main.DemoApplication - No active profile set, falling back to default profiles: default
+[INFO ] 02:43:49.672 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8000 (http)
+[INFO ] 02:43:49.672 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8000"]
+[INFO ] 02:43:49.672 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 02:43:49.672 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+[INFO ] 02:43:49.683 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 02:43:49.683 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 125 ms
+[INFO ] 02:43:49.742 o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+[INFO ] 02:43:49.745 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8000"]
+[INFO ] 02:43:49.746 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8000 (http) with context path ''
+[INFO ] 02:43:49.749 com.board.main.DemoApplication - Started DemoApplication in 0.212 seconds (JVM running for 323.5)
+[INFO ] 02:43:49.750 o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+[INFO ] 02:43:55.323 com.board.main.DemoApplication - Starting DemoApplication using Java 17.0.2 on DESKTOP-Q5SF89O with PID 7276 (C:\Users\kimdoomin\eclipse-workspace\winsProject\bin\main started by kimdoomin in C:\Users\kimdoomin\eclipse-workspace\winsProject)
+[INFO ] 02:43:55.323 com.board.main.DemoApplication - No active profile set, falling back to default profiles: default
+[INFO ] 02:43:55.438 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8000 (http)
+[INFO ] 02:43:55.439 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8000"]
+[INFO ] 02:43:55.439 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 02:43:55.439 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+[INFO ] 02:43:55.450 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 02:43:55.450 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 126 ms
+[INFO ] 02:43:55.509 o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+[INFO ] 02:43:55.512 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8000"]
+[INFO ] 02:43:55.514 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8000 (http) with context path ''
+[INFO ] 02:43:55.517 com.board.main.DemoApplication - Started DemoApplication in 0.211 seconds (JVM running for 329.268)
+[INFO ] 02:43:55.517 o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+[INFO ] 02:43:59.037 com.board.main.DemoApplication - Starting DemoApplication using Java 17.0.2 on DESKTOP-Q5SF89O with PID 7276 (C:\Users\kimdoomin\eclipse-workspace\winsProject\bin\main started by kimdoomin in C:\Users\kimdoomin\eclipse-workspace\winsProject)
+[INFO ] 02:43:59.037 com.board.main.DemoApplication - No active profile set, falling back to default profiles: default
+[INFO ] 02:43:59.154 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8000 (http)
+[INFO ] 02:43:59.155 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8000"]
+[INFO ] 02:43:59.155 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 02:43:59.155 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+[INFO ] 02:43:59.167 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 02:43:59.167 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 129 ms
+[INFO ] 02:43:59.230 o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+[INFO ] 02:43:59.234 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8000"]
+[INFO ] 02:43:59.235 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8000 (http) with context path ''
+[INFO ] 02:43:59.238 com.board.main.DemoApplication - Started DemoApplication in 0.219 seconds (JVM running for 332.99)
+[INFO ] 02:43:59.239 o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+[INFO ] 02:44:00.714 com.board.main.DemoApplication - Starting DemoApplication using Java 17.0.2 on DESKTOP-Q5SF89O with PID 7276 (C:\Users\kimdoomin\eclipse-workspace\winsProject\bin\main started by kimdoomin in C:\Users\kimdoomin\eclipse-workspace\winsProject)
+[INFO ] 02:44:00.714 com.board.main.DemoApplication - No active profile set, falling back to default profiles: default
+[INFO ] 02:44:00.827 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8000 (http)
+[INFO ] 02:44:00.827 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8000"]
+[INFO ] 02:44:00.827 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 02:44:00.827 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+[INFO ] 02:44:00.838 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 02:44:00.838 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 123 ms
+[INFO ] 02:44:00.896 o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+[INFO ] 02:44:00.900 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8000"]
+[INFO ] 02:44:00.901 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8000 (http) with context path ''
+[INFO ] 02:44:00.904 com.board.main.DemoApplication - Started DemoApplication in 0.209 seconds (JVM running for 334.656)
+[INFO ] 02:44:00.905 o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+[INFO ] 02:44:10.517 com.board.main.DemoApplication - Starting DemoApplication using Java 17.0.2 on DESKTOP-Q5SF89O with PID 7276 (C:\Users\kimdoomin\eclipse-workspace\winsProject\bin\main started by kimdoomin in C:\Users\kimdoomin\eclipse-workspace\winsProject)
+[INFO ] 02:44:10.517 com.board.main.DemoApplication - No active profile set, falling back to default profiles: default
+[INFO ] 02:44:10.633 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8000 (http)
+[INFO ] 02:44:10.634 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8000"]
+[INFO ] 02:44:10.634 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 02:44:10.634 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+[INFO ] 02:44:10.644 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 02:44:10.644 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 126 ms
+[INFO ] 02:44:10.705 o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+[INFO ] 02:44:10.709 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8000"]
+[INFO ] 02:44:10.710 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8000 (http) with context path ''
+[INFO ] 02:44:10.714 com.board.main.DemoApplication - Started DemoApplication in 0.214 seconds (JVM running for 344.465)
+[INFO ] 02:44:10.714 o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+[INFO ] 02:44:17.298 com.board.main.DemoApplication - Starting DemoApplication using Java 17.0.2 on DESKTOP-Q5SF89O with PID 7276 (C:\Users\kimdoomin\eclipse-workspace\winsProject\bin\main started by kimdoomin in C:\Users\kimdoomin\eclipse-workspace\winsProject)
+[INFO ] 02:44:17.299 com.board.main.DemoApplication - No active profile set, falling back to default profiles: default
+[INFO ] 02:44:17.410 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8000 (http)
+[INFO ] 02:44:17.410 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8000"]
+[INFO ] 02:44:17.410 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 02:44:17.410 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+[INFO ] 02:44:17.421 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 02:44:17.421 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 122 ms
+[INFO ] 02:44:17.479 o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+[INFO ] 02:44:17.483 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8000"]
+[INFO ] 02:44:17.484 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8000 (http) with context path ''
+[INFO ] 02:44:17.488 com.board.main.DemoApplication - Started DemoApplication in 0.207 seconds (JVM running for 351.239)
+[INFO ] 02:44:17.489 o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+[INFO ] 02:44:18.815 o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+[INFO ] 02:44:20.308 com.board.main.DemoApplication - Starting DemoApplication using Java 17.0.2 on DESKTOP-Q5SF89O with PID 11236 (C:\Users\kimdoomin\eclipse-workspace\winsProject\bin\main started by kimdoomin in C:\Users\kimdoomin\eclipse-workspace\winsProject)
+[INFO ] 02:44:20.309 com.board.main.DemoApplication - No active profile set, falling back to default profiles: default
+[INFO ] 02:44:20.441 o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[INFO ] 02:44:20.441 o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[INFO ] 02:44:21.034 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8000 (http)
+[INFO ] 02:44:21.040 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8000"]
+[INFO ] 02:44:21.041 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 02:44:21.041 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+[INFO ] 02:44:21.085 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 02:44:21.085 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 643 ms
+[INFO ] 02:44:21.389 o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+[INFO ] 02:44:21.401 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8000"]
+[INFO ] 02:44:21.431 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8000 (http) with context path ''
+[INFO ] 02:44:21.443 com.board.main.DemoApplication - Started DemoApplication in 1.422 seconds (JVM running for 1.929)
+[INFO ] 02:44:22.645 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 02:44:22.645 o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[INFO ] 02:44:22.646 o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+[INFO ] 02:45:13.752 com.board.main.DemoApplication - Starting DemoApplication using Java 17.0.2 on DESKTOP-Q5SF89O with PID 11236 (C:\Users\kimdoomin\eclipse-workspace\winsProject\bin\main started by kimdoomin in C:\Users\kimdoomin\eclipse-workspace\winsProject)
+[INFO ] 02:45:13.752 com.board.main.DemoApplication - No active profile set, falling back to default profiles: default
+[INFO ] 02:45:13.898 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8000 (http)
+[INFO ] 02:45:13.899 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8000"]
+[INFO ] 02:45:13.899 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 02:45:13.899 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+[INFO ] 02:45:13.913 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 02:45:13.913 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 160 ms
+[INFO ] 02:45:13.990 o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+[INFO ] 02:45:13.994 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8000"]
+[INFO ] 02:45:13.996 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8000 (http) with context path ''
+[INFO ] 02:45:13.999 com.board.main.DemoApplication - Started DemoApplication in 0.27 seconds (JVM running for 54.486)
+[INFO ] 02:45:14.000 o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+[INFO ] 02:45:15.483 com.board.main.DemoApplication - Starting DemoApplication using Java 17.0.2 on DESKTOP-Q5SF89O with PID 11236 (C:\Users\kimdoomin\eclipse-workspace\winsProject\bin\main started by kimdoomin in C:\Users\kimdoomin\eclipse-workspace\winsProject)
+[INFO ] 02:45:15.483 com.board.main.DemoApplication - No active profile set, falling back to default profiles: default
+[INFO ] 02:45:15.611 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8000 (http)
+[INFO ] 02:45:15.612 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8000"]
+[INFO ] 02:45:15.612 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 02:45:15.612 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+[INFO ] 02:45:15.625 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 02:45:15.625 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 140 ms
+[INFO ] 02:45:15.692 o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+[INFO ] 02:45:15.696 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8000"]
+[INFO ] 02:45:15.697 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8000 (http) with context path ''
+[INFO ] 02:45:15.700 com.board.main.DemoApplication - Started DemoApplication in 0.237 seconds (JVM running for 56.187)
+[INFO ] 02:45:15.701 o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+[INFO ] 02:50:58.779 o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+[INFO ] 10:20:21.444 com.board.main.DemoApplication - Starting DemoApplication using Java 17.0.2 on DESKTOP-Q5SF89O with PID 12888 (C:\Users\kimdoomin\eclipse-workspace\winsProject\bin\main started by kimdoomin in C:\Users\kimdoomin\eclipse-workspace\winsProject)
+[INFO ] 10:20:21.445 com.board.main.DemoApplication - No active profile set, falling back to default profiles: default
+[INFO ] 10:20:21.575 o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[INFO ] 10:20:21.575 o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[INFO ] 10:20:22.171 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8000 (http)
+[INFO ] 10:20:22.177 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8000"]
+[INFO ] 10:20:22.177 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 10:20:22.177 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+[INFO ] 10:20:22.226 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 10:20:22.226 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 650 ms
+[INFO ] 10:20:22.509 o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+[INFO ] 10:20:22.518 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8000"]
+[INFO ] 10:20:22.545 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8000 (http) with context path ''
+[INFO ] 10:20:22.554 com.board.main.DemoApplication - Started DemoApplication in 1.392 seconds (JVM running for 1.902)
+[INFO ] 10:20:24.875 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 10:20:24.875 o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[INFO ] 10:20:24.876 o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+[INFO ] 10:24:08.991 com.board.main.DemoApplication - Starting DemoApplication using Java 17.0.2 on DESKTOP-Q5SF89O with PID 12888 (C:\Users\kimdoomin\eclipse-workspace\winsProject\bin\main started by kimdoomin in C:\Users\kimdoomin\eclipse-workspace\winsProject)
+[INFO ] 10:24:08.991 com.board.main.DemoApplication - No active profile set, falling back to default profiles: default
+[INFO ] 10:24:09.125 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8000 (http)
+[INFO ] 10:24:09.126 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8000"]
+[INFO ] 10:24:09.126 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 10:24:09.126 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+[INFO ] 10:24:09.139 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 10:24:09.139 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 147 ms
+[INFO ] 10:24:09.210 o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+[INFO ] 10:24:09.214 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8000"]
+[INFO ] 10:24:09.215 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8000 (http) with context path ''
+[INFO ] 10:24:09.219 com.board.main.DemoApplication - Started DemoApplication in 0.251 seconds (JVM running for 228.566)
+[INFO ] 10:24:09.220 o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+[INFO ] 10:24:24.745 com.board.main.DemoApplication - Starting DemoApplication using Java 17.0.2 on DESKTOP-Q5SF89O with PID 12888 (C:\Users\kimdoomin\eclipse-workspace\winsProject\bin\main started by kimdoomin in C:\Users\kimdoomin\eclipse-workspace\winsProject)
+[INFO ] 10:24:24.745 com.board.main.DemoApplication - No active profile set, falling back to default profiles: default
+[INFO ] 10:24:24.882 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8000 (http)
+[INFO ] 10:24:24.882 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8000"]
+[INFO ] 10:24:24.883 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 10:24:24.883 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+[INFO ] 10:24:24.898 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 10:24:24.898 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 151 ms
+[INFO ] 10:24:24.986 o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+[INFO ] 10:24:24.991 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8000"]
+[INFO ] 10:24:24.992 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8000 (http) with context path ''
+[INFO ] 10:24:24.996 com.board.main.DemoApplication - Started DemoApplication in 0.273 seconds (JVM running for 244.344)
+[INFO ] 10:24:24.997 o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+[INFO ] 10:28:54.499 c.e.demo.WinsProjectApplicationTests - Starting WinsProjectApplicationTests using Java 11.0.14 on DESKTOP-Q5SF89O with PID 3980 (started by kimdoomin in C:\Users\kimdoomin\eclipse-workspace\winsProject)
+[INFO ] 10:28:54.499 c.e.demo.WinsProjectApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 10:28:56.208 c.e.demo.WinsProjectApplicationTests - Started WinsProjectApplicationTests in 2.102 seconds (JVM running for 3.256)
+[INFO ] 10:29:50.238 c.e.demo.WinsProjectApplicationTests - Starting WinsProjectApplicationTests using Java 11.0.14 on DESKTOP-Q5SF89O with PID 9172 (started by kimdoomin in C:\Users\kimdoomin\eclipse-workspace\winsProject)
+[INFO ] 10:29:50.239 c.e.demo.WinsProjectApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 10:29:51.801 c.e.demo.WinsProjectApplicationTests - Started WinsProjectApplicationTests in 1.91 seconds (JVM running for 3.002)
+[INFO ] 10:34:46.698 c.e.demo.WinsProjectApplicationTests - Starting WinsProjectApplicationTests using Java 11.0.14 on DESKTOP-Q5SF89O with PID 15340 (started by kimdoomin in C:\Users\kimdoomin\eclipse-workspace\winsProject)
+[INFO ] 10:34:46.699 c.e.demo.WinsProjectApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 10:34:48.326 c.e.demo.WinsProjectApplicationTests - Started WinsProjectApplicationTests in 1.974 seconds (JVM running for 3.06)
+[INFO ] 10:41:14.492 c.e.demo.WinsProjectApplicationTests - Starting WinsProjectApplicationTests using Java 11.0.14 on DESKTOP-Q5SF89O with PID 9220 (started by kimdoomin in C:\Users\kimdoomin\eclipse-workspace\winsProject)
+[INFO ] 10:41:14.493 c.e.demo.WinsProjectApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 10:41:16.034 c.e.demo.WinsProjectApplicationTests - Started WinsProjectApplicationTests in 1.885 seconds (JVM running for 3.004)
+[INFO ] 10:42:40.255 c.e.demo.WinsProjectApplicationTests - Starting WinsProjectApplicationTests using Java 11.0.14 on DESKTOP-Q5SF89O with PID 19108 (started by kimdoomin in C:\Users\kimdoomin\eclipse-workspace\winsProject)
+[INFO ] 10:42:40.255 c.e.demo.WinsProjectApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 10:42:41.839 c.e.demo.WinsProjectApplicationTests - Started WinsProjectApplicationTests in 1.932 seconds (JVM running for 3.028)
+[INFO ] 10:42:55.870 c.e.demo.WinsProjectApplicationTests - Starting WinsProjectApplicationTests using Java 11.0.14 on DESKTOP-Q5SF89O with PID 8988 (started by kimdoomin in C:\Users\kimdoomin\eclipse-workspace\winsProject)
+[INFO ] 10:42:55.871 c.e.demo.WinsProjectApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 10:42:57.461 c.e.demo.WinsProjectApplicationTests - Started WinsProjectApplicationTests in 1.936 seconds (JVM running for 3.016)
+[INFO ] 10:54:42.264 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 10:54:42.264 o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[INFO ] 10:54:42.265 o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+[WARN ] 10:54:42.267 o.s.w.s.m.s.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' not supported]
+[WARN ] 10:54:45.444 o.s.w.s.m.s.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' not supported]
+[INFO ] 10:57:42.411 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+[INFO ] 10:57:42.503 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+[INFO ] 11:38:42.261 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+[INFO ] 11:38:42.263 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+[INFO ] 11:38:42.318 com.board.main.DemoApplication - Starting DemoApplication using Java 17.0.2 on DESKTOP-Q5SF89O with PID 12888 (C:\Users\kimdoomin\eclipse-workspace\winsProject\bin\main started by kimdoomin in C:\Users\kimdoomin\eclipse-workspace\winsProject)
+[INFO ] 11:38:42.318 com.board.main.DemoApplication - No active profile set, falling back to default profiles: default
+[INFO ] 11:38:42.466 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8000 (http)
+[INFO ] 11:38:42.467 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8000"]
+[INFO ] 11:38:42.467 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 11:38:42.467 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+[INFO ] 11:38:42.476 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 11:38:42.476 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 153 ms
+[INFO ] 11:38:42.549 o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+[INFO ] 11:38:42.553 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8000"]
+[INFO ] 11:38:42.554 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8000 (http) with context path ''
+[INFO ] 11:38:42.558 com.board.main.DemoApplication - Started DemoApplication in 0.264 seconds (JVM running for 4701.906)
+[INFO ] 11:38:42.558 o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+[INFO ] 11:39:07.346 c.e.demo.WinsProjectApplicationTests - Starting WinsProjectApplicationTests using Java 11.0.14 on DESKTOP-Q5SF89O with PID 6124 (started by kimdoomin in C:\Users\kimdoomin\eclipse-workspace\winsProject)
+[INFO ] 11:39:07.347 c.e.demo.WinsProjectApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 11:39:08.935 c.e.demo.WinsProjectApplicationTests - Started WinsProjectApplicationTests in 1.928 seconds (JVM running for 2.972)
